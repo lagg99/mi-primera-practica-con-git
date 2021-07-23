@@ -1,0 +1,10 @@
+cuerpo del escrito
+
+archivo sin modificar
+
+primera modificacion del archivo
+* antes de la creacion de la rama Cabecera
+* texto del archivo.txt en la rama Master
+*Aqui ya estamos en la rama cabecera
+*Fusión del mismo archivo en las dos ramas (Merge) o fusión de las dos ramas
+texto del archivo.txt en la rama cabecera
