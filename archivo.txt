@@ -3,4 +3,4 @@ cuerpo del escrito
 archivo sin modificar
 
 primera modificacion del archivo
-antes de la creacion de la rama Cabecera
+* antes de la creacion de la rama Cabecera
