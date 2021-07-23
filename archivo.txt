@@ -5,4 +5,4 @@ archivo sin modificar
 primera modificacion del archivo
 *Aqui ya estamos en la rama cabecera
 *Fusión del mismo archivo en las dos ramas (Merge) o fusión de las dos ramas
-texto del archivo.txt en la rama cabecera 
+texto del archivo.txt en la rama cabecera
