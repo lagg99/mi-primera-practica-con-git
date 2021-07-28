@@ -8,3 +8,4 @@ primera modificacion del archivo
 *Aqui ya estamos en la rama cabecera
 *Fusión del mismo archivo en las dos ramas (Merge) o fusión de las dos ramas
 texto del archivo.txt en la rama cabecera
+*Modificación del archivo para subirlo al servidor (el archivo ya está en el servidor pero sin esta linea)
